@@ -1,3 +1,3 @@
 # AndroidFormsGenerator
-#sdf
+sdf\n
 sdfgs
